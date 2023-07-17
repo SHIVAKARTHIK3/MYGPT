@@ -1,5 +1,5 @@
-# MYGPT
-AI Medical Assistant
+
+#AI Medical Assistant
 
 
 Description
